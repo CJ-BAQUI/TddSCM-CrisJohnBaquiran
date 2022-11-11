@@ -1,0 +1,5 @@
+List of All Employees:[
+ id=1, name='Baqui', age=18, salary=30000.0, position='jr SoftDev', 
+ id=2, name='Hajime', age=19, salary=40000.0, position='Archiect', 
+ id=3, name='Zoro', age=30, salary=4000000.0, position='Swordsman', 
+ id=4, name='Erza Scarlet', age=27, salary=3500000.0, position='Swordsman']
